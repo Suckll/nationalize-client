@@ -8,9 +8,9 @@
     <description>Java class library to estimate the nationality of a person based on a last name.</description>
     <developers>
         <developer>
-            <id><!-- YOUR ID --></id>
-            <name><!-- YOUR NAME --></name>
-            <email><!-- YOUR EMAIL ADDRESS --></email>
+            <id>MS9W41</id>
+            <name>Daniel Medhat</name>
+            <email>danielmedhat@hotmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
